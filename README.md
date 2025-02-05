@@ -1,6 +1,6 @@
 # NoteMap 🗺️
 
-<li>Bu proje HTML5,CSS,JS,LEAFLET ile oluşturulmuş Gezici Harita İşaretleyicisi içerir.</li>
+<li>Bu proje HTML,CSS,JS,LEAFLET ile oluşturulmuş Gezici Harita İşaretleyicisi içerir.</li>
 <li>Proje kişilerin konum bilgisini alarak iconlar yardımıyla harita üzerinde işaretleme,ekleme,silme özelliği sunar.</li>
 <li>Modern ve kullanıcı dostu arayüze sahiptir.</li>
 
